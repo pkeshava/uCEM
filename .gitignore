@@ -1,0 +1,11 @@
+MySimulator/
+qbook/*
+*.gif
+!fdtd_3d_sphere.gif
+*.jpg
+*.txt
+*.DS_Store
+codes/
+notebooks/
+scratch/
+ref/
